@@ -83,7 +83,7 @@ WidgetLCD lcd(V1);
 WiFiMulti wifiMulti;
 char auth[] = "mdtl6aqxtZSfzBu0JmGvQ1p46AoH8HBB";
 char ssid[] = "B593-5478";
-char pass[] = "658B9D5B29F";
+char pass[] = "658B9D5****";
 
 
 
