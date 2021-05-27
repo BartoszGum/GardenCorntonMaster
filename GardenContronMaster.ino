@@ -81,7 +81,7 @@ WidgetLCD lcd(V1);
 
 //WiFi variables
 WiFiMulti wifiMulti;
-char auth[] = "mdtl6aqxtZSfzBu0JmGvQ1p46AoH8HBB";
+char auth[] = "mdtl6aqxtZSfzBu0JmGvQ1p46AoH****";
 char ssid[] = "B593-5478";
 char pass[] = "658B9D5****";
 
